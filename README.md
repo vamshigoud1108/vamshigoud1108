@@ -1,6 +1,6 @@
 ## Vamshi Ramagoni
 #### 🎓 Computer Science Graduate | 💻 Data Science & Machine Learning Enthusiast
-I am a passionate Computer Science graduate with strong interest in **Data Science and Machine Learning. During my academic journey and internships, I gained hands-on experience in building predictive models, analyzing data, and creating real-world solutions. I enjoy learning new technologies, solving challenging problems, and contributing to impactful projects.
+I am a passionate Computer Science graduate with strong interest in **Data Science and Machine Learning**. During my academic journey and internships, I gained hands-on experience in building predictive models, analyzing data, and creating real-world solutions. I enjoy learning new technologies, solving challenging problems, and contributing to impactful projects.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vamshigoud1108&theme=radical) 
 
 ## Top Repositories  
